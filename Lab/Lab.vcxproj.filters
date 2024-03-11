@@ -15,29 +15,11 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Intro.cpp">
-      <Filter>Ejercicios</Filter>
-    </ClCompile>
-    <ClCompile Include="Ordenar.cpp">
-      <Filter>Ejercicios</Filter>
-    </ClCompile>
-    <ClCompile Include="Punteros.cpp">
-      <Filter>Ejercicios</Filter>
-    </ClCompile>
     <ClCompile Include="Vectores.cpp">
       <Filter>Ejercicios</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Intro.h">
-      <Filter>Ejercicios</Filter>
-    </ClInclude>
-    <ClInclude Include="Ordenar.h">
-      <Filter>Ejercicios</Filter>
-    </ClInclude>
-    <ClInclude Include="Punteros.h">
-      <Filter>Ejercicios</Filter>
-    </ClInclude>
     <ClInclude Include="Vectores.h">
       <Filter>Ejercicios</Filter>
     </ClInclude>

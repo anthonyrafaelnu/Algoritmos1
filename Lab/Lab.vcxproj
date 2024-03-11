@@ -127,15 +127,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Intro.cpp" />
-    <ClCompile Include="Punteros.cpp" />
-    <ClCompile Include="Ordenar.cpp" />
     <ClCompile Include="Vectores.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Intro.h" />
-    <ClInclude Include="Punteros.h" />
-    <ClInclude Include="Ordenar.h" />
     <ClInclude Include="Vectores.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
