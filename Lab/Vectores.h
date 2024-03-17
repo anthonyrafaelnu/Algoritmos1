@@ -63,3 +63,5 @@ void misterio1(char* p, char* t);
 	POS: ??
 */
 int misterio2(char* p);
+
+int mainVectores();

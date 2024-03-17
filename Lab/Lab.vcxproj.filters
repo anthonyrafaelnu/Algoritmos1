@@ -18,9 +18,18 @@
     <ClCompile Include="Vectores.cpp">
       <Filter>Ejercicios</Filter>
     </ClCompile>
+    <ClCompile Include="Matrices.cpp">
+      <Filter>Ejercicios</Filter>
+    </ClCompile>
+    <ClCompile Include="Programa.cpp">
+      <Filter>Ejercicios</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Vectores.h">
+      <Filter>Ejercicios</Filter>
+    </ClInclude>
+    <ClInclude Include="Matrices.h">
       <Filter>Ejercicios</Filter>
     </ClInclude>
   </ItemGroup>

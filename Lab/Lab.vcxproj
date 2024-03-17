@@ -127,9 +127,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Matrices.cpp" />
+    <ClCompile Include="Programa.cpp" />
     <ClCompile Include="Vectores.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Matrices.h" />
     <ClInclude Include="Vectores.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

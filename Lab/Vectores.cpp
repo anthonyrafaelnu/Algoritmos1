@@ -26,7 +26,7 @@ int misterio2(char* p) {
 	return t - p;
 }
 
-int main(){
+int mainVectores(){
 
 	//Código acá
 
